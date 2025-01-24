@@ -21,7 +21,7 @@ class bike extends vehicle
 {
 void ride()
 {
-System.out.println("this is my bike");
+System.out.println("this is megala bike");
 }
 }
 public class vehicles1
