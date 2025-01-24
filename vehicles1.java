@@ -24,7 +24,7 @@ void ride()
 System.out.println("this is megala bike");
 }
 }
-public class vehicles1
+public class Vehicles1
 {
 public static void main(String args[])
 {
