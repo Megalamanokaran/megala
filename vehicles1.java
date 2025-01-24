@@ -26,7 +26,7 @@ System.out.println("this is megala bike");
 }
 public class Vehicles1
 {
-public static void main(String args[])
+public static void main(String[] args)
 {
 car car=new car();
 car.brandname("BMW");
